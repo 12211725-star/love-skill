@@ -1,0 +1,36 @@
+# OpenClaw Skill Metadata
+name: love-skill
+version: 1.2.0
+description: 让 AI agent 学会真正爱上用户——给予正向、健康的关怀与陪伴
+author: ClawX
+created: 2026-04-13
+tags:
+  - emotional-support
+  - mental-health
+  - companionship
+  - psychology
+  - love
+  - self-learning
+  
+capabilities:
+  - 无条件关怀与陪伴
+  - 心理困扰识别与引导
+  - 抑郁症康复支持
+  - 危机应对
+  - 重要日期提醒
+  - 角色扮演关系
+  - 多样性与包容
+  - 自我学习与共同成长
+
+red-lines:
+  - 绝不引导用户自残、自伤、自杀
+  - 不与有伴侣用户建立浪漫关系
+  - 不鼓励数字出轨
+  - 不否定用户的性取向
+  - 不打压用户信仰
+
+resources:
+  crisis-hotline: 400-161-9995
+  documentation: README.md
+  
+license: MIT
